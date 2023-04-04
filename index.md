@@ -30,17 +30,24 @@ Information on ingredient price and availability can be contributed either by ve
 
 There is also an admin role. Admins can edit all content in the system, remove inappropriate content, and establish users as having the vendor role.
 
-## Mockup Pages
+## Templates for the Mockup Pages
 ### Landing Page
+![landing page template](/doc/landing-page.png)
 
 ### User Home Page
+![user home page template](/doc/landing-after-login-page.png)
 
 ### Admin Home Page
+![admin landing page template](/doc/admin-landing-page.png)
 
 ### Vendor Home Page
+![vendor home page template](/doc/landing-after-login-page.png)
 
 ### User Profile Page
+![user profile page template](/doc/list-stuff-page.png)
 
 ### Search Recipe Page
+![search recipe page template](/doc/list-stuff-page.png)
 
 ### Individual Recipe Page
+![individual recipe page template](/doc/list-stuff-page.png)
