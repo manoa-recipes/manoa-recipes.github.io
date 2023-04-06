@@ -32,7 +32,7 @@ There is also an admin role. Admins can edit all content in the system, remove i
 
 ## Templates for the Mockup Pages
 ### Landing Page
-![landing page template](/doc/landing-page.png)
+![landing page template](/doc/landing.png)
 
 ### User Home Page
 ![user home page template](/doc/landing-after-login-page.png)
