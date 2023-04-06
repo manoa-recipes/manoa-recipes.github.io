@@ -46,8 +46,11 @@ There is also an admin role. Admins can edit all content in the system, remove i
 ### User Profile Page
 ![user profile page template](/doc/list-stuff-page.png)
 
+<!--
+
 ### Search Recipe Page
 ![search recipe page template](/doc/list-stuff-page.png)
 
 ### Individual Recipe Page
 ![individual recipe page template](/doc/list-stuff-page.png)
+-->
