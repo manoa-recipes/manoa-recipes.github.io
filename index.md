@@ -44,7 +44,7 @@ There is also an admin role. Admins can edit all content in the system, remove i
 ![vendor home page template](/doc/vendorHome.png)
 
 ### User Profile Page
-![user profile page template](/doc/list-stuff-page.png)
+![user profile page template](/doc/userProfile.png)
 
 <!--
 
