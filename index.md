@@ -1,6 +1,9 @@
 # Manoa Recipes
 
 ## Overview
+Links:
+[Team Contract](https://docs.google.com/document/d/1JNSeRzgtLFyxoxDYnh9tqwzJMv07OrR6WGI9nbCAuG8/edit?usp=sharing)
+
 The purpose of this application is to provide college students (on-campus or off) easy access to learn and share recipes that:
 - Can be made using minimal kitchen facilities (at a minimum, a toaster oven).
 - Can be made out of ingredients that are available within walking distance of UH.
