@@ -48,31 +48,25 @@ There is also an admin role. Admins can edit all content in the system, remove i
 
 ## Deployment
 ### Landing Page
-![landing page template](/doc/landing.png)
+![landing page](/doc/landing.png)
+
+### Sign In
+![sign in page](/doc/sign-in.png)
+
+### Sign Up
+![sign up page](/doc/sign-up.png)
 
 ### User Home Page
-![user home page template](/doc/userHomePage.png)
+![user home page](/doc/user-home-page.png)
 
-### Admin Home Page
-![admin landing page template](/doc/adminHome.png)
+### Add Recipe Page
+![add recipe page](/doc/add-recipe.png)
 
-### Vendor Home Page
-![vendor home page template](/doc/vendorHome.png)
-
-### User Profile Page
-![user profile page template](/doc/userProfile.png)
+### Admin Page
+![admin page](/doc/admin.png)
 
 ### Deployed Page
 Here is a [link](http://137.184.30.50/) to our deployed page.
-
-<!--
-
-### Search Recipe Page
-![search recipe page template](/doc/list-stuff-page.png)
-
-### Individual Recipe Page
-![individual recipe page template](/doc/list-stuff-page.png)
--->
 
 
 ## [GitHub Organization](https://github.com/manoa-recipes)
