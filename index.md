@@ -1,9 +1,21 @@
 # Manoa Recipes
 
-## Overview
-Links:
+## Links
+
+[GitHub Organization](https://github.com/manoa-recipes)
+
 
 [Team Contract](https://docs.google.com/document/d/1JNSeRzgtLFyxoxDYnh9tqwzJMv07OrR6WGI9nbCAuG8/edit?usp=sharing)
+
+[Deployment](http://137.184.30.50/)
+
+[M1 Project Page](https://github.com/orgs/manoa-recipes/projects/4)
+
+[M2 Project Page](https://github.com/orgs/manoa-recipes/projects/6)
+
+
+
+## Overview
 
 The purpose of this application is to provide college students (on-campus or off) easy access to learn and share recipes that:
 - Can be made using minimal kitchen facilities (at a minimum, a toaster oven).
