@@ -46,7 +46,7 @@ Information on ingredient price and availability can be contributed either by ve
 
 There is also an admin role. Admins can edit all content in the system, remove inappropriate content, and establish users as having the vendor role.
 
-## Templates for the Mockup Pages
+## Deployment
 ### Landing Page
 ![landing page template](/doc/landing.png)
 
@@ -62,6 +62,9 @@ There is also an admin role. Admins can edit all content in the system, remove i
 ### User Profile Page
 ![user profile page template](/doc/userProfile.png)
 
+### Deployed Page
+Here is a [link](http://137.184.30.50/) to our deployed page.
+
 <!--
 
 ### Search Recipe Page
@@ -70,3 +73,12 @@ There is also an admin role. Admins can edit all content in the system, remove i
 ### Individual Recipe Page
 ![individual recipe page template](/doc/list-stuff-page.png)
 -->
+
+
+## [GitHub Organization](https://github.com/manoa-recipes)
+
+## [Team Contract](https://docs.google.com/document/d/1MJt64tX4oWzQhcEswiNezfdqCrEvjX_fnbmLACwksA0/edit?usp=sharing)
+
+## Projects
+- [M1 Project Page](https://github.com/orgs/manoa-recipes/projects/4)
+- [M2 Project Page](https://github.com/orgs/manoa-recipes/projects/6)
