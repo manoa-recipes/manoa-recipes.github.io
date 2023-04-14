@@ -56,6 +56,9 @@ There is also an admin role. Admins can edit all content in the system, remove i
 ### Sign Up
 ![sign up page](/doc/sign-up.png)
 
+### User Profile Page
+![user profile page](/doc/user-profile-page.png)
+
 ### User Home Page
 ![user home page](/doc/user-home-page.png)
 
