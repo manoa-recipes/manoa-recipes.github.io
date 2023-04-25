@@ -1,20 +1,5 @@
 # Manoa Recipes
 
-## Links
-
-[GitHub Organization](https://github.com/manoa-recipes)
-
-
-[Team Contract](https://docs.google.com/document/d/1JNSeRzgtLFyxoxDYnh9tqwzJMv07OrR6WGI9nbCAuG8/edit?usp=sharing)
-
-[Deployment](http://137.184.30.50/)
-
-[M1 Project Page](https://github.com/orgs/manoa-recipes/projects/4)
-
-[M2 Project Page](https://github.com/orgs/manoa-recipes/projects/6)
-
-
-
 ## Overview
 
 The purpose of this application is to provide college students (on-campus or off) easy access to learn and share recipes that:
@@ -73,6 +58,20 @@ Here is a [link](http://137.184.30.50/) to our deployed page.
 
 
 ## Developer Guide
+1. [Install Meteor](https://docs.meteor.com/install.html)
+2. [Download a copy of Manoa Recipes.](https://github.com/manoa-recipes/manoa-recipes-application)
+3. cd into the app directory and download the required libraries with:
+
+```$meteor npm install```
+4. Once the libraries are installed, you can run the application by invoking:
+
+```$meteor npm run start```
+
+**NOTE:** the first time you run the app, it will create some default users and data.
+
+5. You can run ESLint over the code in the imports directory with:
+
+```$meteor npm run lint```
 
 
 ## [GitHub Organization](https://github.com/manoa-recipes)
