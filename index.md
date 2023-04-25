@@ -33,13 +33,13 @@ There is also an admin role. Admins can edit all content in the system, remove i
 
 ## User Guide
 ### Landing Page
-![landing page](/doc/landing.png)
+![landing page](/doc/landing-page.png)
 
 ### Sign In
-![sign in page](/doc/sign-in.png)
+![sign in page](/doc/sign-in-page.png)
 
 ### Sign Up
-![sign up page](/doc/sign-up.png)
+![sign up page](/doc/sign-up-page.png)
 
 ### User Profile Page
 ![user profile page](/doc/user-profile-page.png)
@@ -48,10 +48,10 @@ There is also an admin role. Admins can edit all content in the system, remove i
 ![user home page](/doc/user-home-page.png)
 
 ### Add Recipe Page
-![add recipe page](/doc/add-recipe.png)
+![add recipe page](/doc/add-recipe-page.png)
 
 ### Admin Page
-![admin page](/doc/admin.png)
+![admin page](/doc/admin-page.png)
 
 ### Deployed Page
 Here is a [link](http://137.184.30.50/) to our deployed page.
