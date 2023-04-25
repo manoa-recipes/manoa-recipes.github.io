@@ -33,24 +33,51 @@ There is also an admin role. Admins can edit all content in the system, remove i
 
 ## User Guide
 ### Landing Page
+When you first bring up the application, you will see the landing page that provides a brief introduction to Manoa Recipes.
 ![landing page](/doc/landing-page.png)
 
 ### Sign In
+Click on "Login", then on "Sign In" to bring up the Sign In page.  This will allow you to login to the application. 
 ![sign in page](/doc/sign-in-page.png)
 
 ### Sign Up
+If you do not yet have an account, you can register by clicking on "Login", then "Sign Up."  You have the option of registering as either a regular user or a vendor.  Depending on which role you choose, different features will be available to you.
 ![sign up page](/doc/sign-up-page.png)
 
-### User Profile Page
-![user profile page](/doc/user-profile-page.png)
-
 ### User Home Page
+After successfully logging in, you now have access to your home page featuring a randomly selected recipe.  You now also have access to the Add Recipe, List Recipe, Vendor and your Profile pages.
 ![user home page](/doc/user-home-page.png)
 
 ### Add Recipe Page
+Clicking on the Add Recipe link allows you to add your own recipe to the application.
 ![add recipe page](/doc/add-recipe-page.png)
 
-### Admin Page
+### List Recipe Page
+Clicking on the List Recipe link brings up a page that lists all of the recipes uploaded to the application.
+![list recipe page](/doc/list-recipe-page.png)
+
+#### Recipe Description
+Clicking on one of the recipe cards will bring up the instruction page for that particular recipe.
+![recipe description](/doc/recipe-description-page.png)
+
+### Vendor Page
+Clicking on the Vendor link brings up a page that lists all of the vendors currently registered in the application.
+![list vendor page](/doc/list-vendors-page.png)
+
+### User Profile Page
+If you are a user, you have access to a user profile page that lists your allergies and whether you're vegan and/or gluten-free.
+![user profile page](/doc/user-profile-page.png)
+
+#### Edit User Profile
+From the User Profile page, you can click "Edit" to alter the information shown in your profile.
+![edit user profile page](/doc/edit-profile-page.png)
+
+### Vendor Profile Page
+If you are a vendor, you have access to a vendor profile page that lists your address, hours and the products you sell.
+![vendor profile page](/doc/vendor-profile-page.png)
+
+### Admin Mode
+It is possible to designate one or more users as "Admins" through the settings file.  When a user has the Admin role, they have access to a special Admin page that lists all of the data uploaded to the application (ex. ingredients, profiles, etc).
 ![admin page](/doc/admin-page.png)
 
 ### Deployed Page
