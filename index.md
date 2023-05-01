@@ -32,23 +32,6 @@ Information on ingredient price and availability can be contributed either by ve
 There is also an admin role. Admins can edit all content in the system, remove inappropriate content, and establish users as having the vendor role.
 
 
-## Developer Guide
-1. [Install Meteor](https://docs.meteor.com/install.html)
-2. [Download a copy of Manoa Recipes.](https://github.com/manoa-recipes/manoa-recipes-application)
-3. cd into the app directory and download the required libraries with:
-
-```$meteor npm install```
-4. Once the libraries are installed, you can run the application by invoking:
-
-```$meteor npm run start```
-
-**NOTE:** the first time you run the app, it will create some default users and data.
-
-5. You can run ESLint over the code in the imports directory with:
-
-```$meteor npm run lint```
-
-
 ## User Guide
 ### Landing Page
 When you first bring up the application, you will see the landing page that provides a brief introduction to Manoa Recipes.
@@ -106,6 +89,27 @@ Here is a [link](https://manoa-recipes.site/) to our deployed page.
 
 ### Github action
 [![manoa-recipe](https://github.com/manoa-recipes/manoa-recipes-application/actions/workflows/ci.yml/badge.svg)](https://github.com/manoa-recipes/manoa-recipes-application/actions/workflows/ci.yml)
+
+
+## Developer Guide
+1. [Install Meteor](https://docs.meteor.com/install.html)
+2. [Download a copy of Manoa Recipes.](https://github.com/manoa-recipes/manoa-recipes-application)
+3. cd into the app directory and download the required libraries with:
+
+```$meteor npm install```
+4. Once the libraries are installed, you can run the application by invoking:
+
+```$meteor npm run start```
+
+**NOTE:** the first time you run the app, it will create some default users and data.
+
+5. You can run ESLint over the code in the imports directory with:
+
+```$meteor npm run lint```
+
+
+## Community Feedback
+
 
 ## [GitHub Organization](https://github.com/manoa-recipes)
 
