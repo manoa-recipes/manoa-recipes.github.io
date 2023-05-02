@@ -31,6 +31,8 @@ Information on ingredient price and availability can be contributed either by ve
 
 There is also an admin role. Admins can edit all content in the system, remove inappropriate content, and establish users as having the vendor role.
 
+### Deployed Page
+Here is a [link](https://manoa-recipes.site/) to our deployed page.
 
 ## Developer Guide
 1. [Install Meteor](https://docs.meteor.com/install.html)
@@ -98,9 +100,6 @@ Just as with any regular user, vendors can update their information through this
 ### Admin Mode
 It is possible to designate one or more users as "Admins" through the settings file.  When a user has the Admin role, they have access to a special Admin page that lists all of the data uploaded to the application (ex. ingredients, profiles, etc).
 ![admin page](/doc/admin-server-data-updated.png)
-
-### Deployed Page
-Here is a [link](https://manoa-recipes.site/) to our deployed page.
 
 ### Testface
 ![testface](/doc/testcafe.png)
