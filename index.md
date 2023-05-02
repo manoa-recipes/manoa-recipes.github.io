@@ -103,7 +103,7 @@ It is possible to designate one or more users as "Admins" through the settings f
 Here is a [link](https://manoa-recipes.site/) to our deployed page.
 
 ### Testface
-![testface](/doc/Testcafe.jpeg)
+![testface](/doc/testcafe.png)
 
 ### Github action
 [![manoa-recipe](https://github.com/manoa-recipes/manoa-recipes-application/actions/workflows/ci.yml/badge.svg)](https://github.com/manoa-recipes/manoa-recipes-application/actions/workflows/ci.yml)
