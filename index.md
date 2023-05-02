@@ -112,6 +112,13 @@ Here is a [link](https://manoa-recipes.site/) to our deployed page.
 ## Community Feedback
 Generally, users praised the ease of use for new users and liked the design of our application. However, they also said some items were too crowded or too small/difficult to read comfortably.
 
+Reviewers:
+- Darrius
+- Shedrick
+- Marcus
+- Alexia
+- Joie
+
 ## [GitHub Organization](https://github.com/manoa-recipes)
 
 ## [Team Contract](https://docs.google.com/document/d/1MJt64tX4oWzQhcEswiNezfdqCrEvjX_fnbmLACwksA0/edit?usp=sharing)
